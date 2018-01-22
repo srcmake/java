@@ -21,3 +21,9 @@ C. Create a Spring API project.
 D. Deploy the project from C onto a cloud service.
 
 For now, everything will be in a new commit. (As opposed to a separate branch.) 
+
+# Additional Resources
+
+The youtube videos for this series is in the following playlist: https://www.youtube.com/watch?v=M10DYZTcJ9A&list=PLKAc4d3i0XOhOe0MF6p76pL2i7D79bcit
+
+The webpage on my website for the supporting information is here: http://www.srcmake.com/home/java
