@@ -7,11 +7,12 @@ I've created goals for the project, which I'll list here:
 0. Set the project folder up and create the github repository.
 1. Create a Hello World Java project.
 2. Use each variable type in Java.
-3. Use functions.
-4. Use classes.
-5. Expand upon classes (derived).
-6. Use templates.
-7. Use complex data structures. (Stack, queue, hash table, priority queue, etc.)
+3. For Loops, If Statements
+4. Use functions.
+5. Use classes.
+6. Expand upon classes (derived).
+7. Use templates.
+8. Use complex data structures. (Stack, queue, hash table, priority queue, etc.)
 
 
 In addition, we have some pivoting goals:
