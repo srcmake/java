@@ -9,10 +9,11 @@ I've created goals for the project, which I'll list here:
 2. Use each variable type in Java.
 3. For Loops, If Statements
 4. Use functions.
-5. Use classes.
-6. Expand upon classes (derived).
-7. Use templates.
-8. Use complex data structures. (Stack, queue, hash table, priority queue, etc.)
+5. Arrays, ArrayLists, Imports.
+6. Use classes.
+7. Base, Derived, Abstract Classes.
+8. Use templates.
+9. Use complex data structures. (Stack, queue, hash table, priority queue, etc.)
 
 
 In addition, we have some pivoting goals:
