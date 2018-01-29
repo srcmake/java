@@ -11,9 +11,9 @@ I've created goals for the project, which I'll list here:
 4. Use functions.
 5. Arrays, ArrayLists, Imports.
 6. Use classes.
-7. Base, Derived, Abstract Classes.
-8. Use templates.
-9. Use complex data structures. (Stack, queue, hash table, priority queue, etc.)
+7. Inheritence, object oriented programming, Abstract Classes.
+8. Complex data structures (stack, queue, priority queue, hash map, set).
+9. Generic types.
 
 
 In addition, we have some pivoting goals:
